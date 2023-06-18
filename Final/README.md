@@ -1,5 +1,9 @@
 # Repository of notebooks, data, output and paper for the final project of CAS AML 2022-23 University of Bern
 
+# Paper:
+  report on method, tests, data, model results, discussion
+# Corrections:
+  added 18.06.2023 to correct errors in the text
 # Data:
   UTD2019 is a set of traffic counts, used with permission from ETHZ (IVT). Do not distribute.
 # Output:
