@@ -3,9 +3,9 @@
 # Paper:
   report on method, tests, data, model results, discussion
 # Corrections:
-  added 18.06.2023 to correct errors in the text
+  added 09.08.2023 to correct errors in the text
 # Data:
-  UTD2019 is a set of traffic counts, used with permission from ETHZ (IVT). Do not distribute.
+  UTD2019 is a set of traffic counts in .csv format, used with permission from ETHZ (IVT). Data available at ETHZ/IVT.
 # Output:
   Model weights, output values, plots and tables from the models.
   NOTE: the MCMC trace (.npy format) is > 100MB and too large to store, here. Please let me know if it is needed
